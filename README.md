@@ -7,7 +7,6 @@ The Matrix Operations System is a menu-driven C programming project developed as
 
 This application performs various matrix operations using 2D arrays and functions. It allows users to perform matrix addition, matrix multiplication, matrix transpose, and display matrices through an interactive menu-driven interface.
 
----
 
 ## Features
 
@@ -20,7 +19,6 @@ This application performs various matrix operations using 2D arrays and function
 - Function-Based Modular Programming
 - Uses 2D Arrays
 
----
 
 ## Technologies Used
 
@@ -28,7 +26,6 @@ This application performs various matrix operations using 2D arrays and function
 - Code::Blocks IDE
 - GCC Compiler
 
----
 
 ## Concepts Used
 
@@ -40,7 +37,10 @@ This application performs various matrix operations using 2D arrays and function
 - User Input and Output
 - Matrix Operations
 
----
+<img width="1422" height="791" alt="image" src="https://github.com/user-attachments/assets/9b20d0c8-374a-4839-b7b5-2fc6843dc25e" />
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/1a3981d4-4c78-4dc1-89b1-d2c1a6b9efea" />
+
+
 
 ## Project Structure
 
@@ -51,7 +51,6 @@ CodeAlpha_Matrix_Operations
 └── README.md
 ```
 
----
 
 ## Menu Options
 
@@ -64,7 +63,6 @@ CodeAlpha_Matrix_Operations
 6. Exit
 ```
 
----
 
 ## Sample Input
 
@@ -118,7 +116,8 @@ CodeAlpha_Matrix_Operations
 | 2 1 2 |
 | 5 3 1 |
 ```
----
+<img width="428" height="1012" alt="Screenshot 2026-06-22 160408" src="https://github.com/user-attachments/assets/9406d441-9e1d-45a0-bbb8-fa8124c72bdb" />
+
 
 ## Learning Outcomes
 

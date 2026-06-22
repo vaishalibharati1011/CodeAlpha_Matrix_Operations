@@ -1,5 +1,4 @@
-# CodeAlpha_Matrix_Operations
-## CodeAlpha Task 2  
+# CodeAlpha_Matrix_Operations 
 ## Matrix Operations System developed in C Programming Language.
 
 ## Project Overview
@@ -48,7 +47,7 @@ This application performs various matrix operations using 2D arrays and function
 ```
 CodeAlpha_Matrix_Operations
 │
-├── matrix_operations.c
+├── matrix_operation.c
 └── README.md
 ```
 
@@ -138,7 +137,7 @@ Through this project, I learned:
 
 **Internship:** CodeAlpha C Programming Internship
 
-**Task:** Matrix Operations System
+**Task 2:** Matrix Operations System
 
 ---
 
